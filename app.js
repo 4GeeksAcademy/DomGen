@@ -11,7 +11,7 @@ let pronoun = ['the', 'our'];
         {
           for(let d=0;d<dom.length;d++)
           {
-            console.log(pronoun[p]+adj[a]+noun[n]);
+            console.log(pronoun[p]+adj[a]+noun[n]+dom[d]);
           }
         }
       }
